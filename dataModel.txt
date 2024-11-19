@@ -1,0 +1,12 @@
+
+
+
+
+master - worker - Start bool |
+master - worker - Stop bool  |-> could be one bool Running load
+
+Response data
+    endpoint string
+        responseCode int
+        responseMessage string
+        responseTime int (time.Time)
